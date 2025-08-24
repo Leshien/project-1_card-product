@@ -35,10 +35,6 @@ Tables:
 - Reconciliation logic for scheme cost vs. transaction value
 - Customer spend-based segmentation
 
-##  Power BI 
-
-Power BI dashboard visualizes key KPIs and trends using imported CSV data and the above queries.
-
 ##  Files Included
 
 - `*.csv` – Mock data files
